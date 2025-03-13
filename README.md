@@ -1,6 +1,6 @@
 # 🔍 Forensic Methodologies  
   
-![Forensic Analysis](cybersec-repo3.png) 
+![Forensic Analysis](cybersec-repo3.PNG) 
 
 ---
 
