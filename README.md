@@ -27,7 +27,7 @@ holbertonschool-0x02_forensic_methodologies/ └── cybersecurity_basics/ ├
 
 ## 🕵️‍♂️ Case Studies  
 
-### 🔍 **0. The Case of the Mysterious Image**  
+### 🔍 **0. The Case of the Mysterious Image & Unraveling Location Clues from Image Metadata**  
 
 **Objective:**  
 - Use forensic analysis tools to uncover metadata and extract hidden information.  
